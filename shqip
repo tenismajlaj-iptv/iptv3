@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="" tvg-name="===== ALB: ALBANIA =====" tvg-logo="" group-title="EU ALBANIA",===== ALB: ALBANIA =====
+#EXTINF:-1 tvg-ID="" tvg-name="===== ALB: KOSOVA =====" tvg-logo="" group-title="EU KOSOVA",===== ALB: KOSOVA =====
 #EXTINF:-1 tvg-ID="" tvg-name="ALB: RTK1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTK1 HD
 http://176.31.74.161:8081/live/rtk1/chunks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ALB: RTK1 HD" tvg-logo="" group-title="EU ALBANIA",ALB: RTK1 HD
